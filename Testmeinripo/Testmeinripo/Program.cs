@@ -10,6 +10,7 @@ namespace Testmeinripo
         static void Main(string[] args)
         {
             Console.WriteLine("hallo");
+            Console.WriteLine("wer bin ich");
         }
     }
 }
